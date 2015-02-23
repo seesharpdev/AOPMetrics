@@ -1,0 +1,16 @@
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\obj\Debug\AOPMetrics.Interceptors.UnitTests.csprojResolveAssemblyReference.cache
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Interceptors.UnitTests.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Interceptors.UnitTests.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Interceptors.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\nunit.framework.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\StructureMap.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\log4net.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Castle.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Interceptors.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\nunit.framework.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\AOPMetrics.Core.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\log4net.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Castle.Core.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\obj\Debug\AOPMetrics.Interceptors.UnitTests.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\obj\Debug\AOPMetrics.Interceptors.UnitTests.pdb

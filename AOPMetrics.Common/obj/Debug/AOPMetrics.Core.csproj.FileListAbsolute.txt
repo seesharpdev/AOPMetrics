@@ -1,0 +1,4 @@
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\Output\AOPMetrics.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\Output\AOPMetrics.Core.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Common\obj\Debug\AOPMetrics.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Common\obj\Debug\AOPMetrics.Core.pdb

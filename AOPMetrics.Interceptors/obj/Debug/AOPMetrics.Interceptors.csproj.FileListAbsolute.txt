@@ -1,0 +1,14 @@
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\obj\Debug\AOPMetrics.Interceptors.csprojResolveAssemblyReference.cache
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Interceptors.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Interceptors.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Persistence.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\Castle.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\log4net.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\StructureMap.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Core.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\AOPMetrics.Persistence.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\Castle.Core.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\bin\Debug\log4net.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\obj\Debug\AOPMetrics.Interceptors.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors\obj\Debug\AOPMetrics.Interceptors.pdb

@@ -1,0 +1,5 @@
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\Output\AOPMetrics.Persistence.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\Output\AOPMetrics.Persistence.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.DataAccess\obj\Debug\AOPMetrics.Persistence.csprojResolveAssemblyReference.cache
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.DataAccess\obj\Debug\AOPMetrics.Persistence.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.DataAccess\obj\Debug\AOPMetrics.Persistence.pdb
