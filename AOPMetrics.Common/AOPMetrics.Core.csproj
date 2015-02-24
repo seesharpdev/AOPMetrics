@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Attributes\Attributes.cs" />
+    <Compile Include="Extensions\StructureMapExtensions.cs" />
     <Compile Include="Interfaces\Entities\IEntity.cs" />
     <Compile Include="Interfaces\Logging\ILog.cs" />
     <Compile Include="Interfaces\Logging\Logger.cs" />

@@ -6,15 +6,15 @@ namespace AOPMetrics.Interceptors
 {
     public class DynamicProxyHelper
     {
-        public static object CreateInterfaceProxyWithTargetInterface(Type interfaceType, object concreteType)
-        {
-            var dynamicProxy = new ProxyGenerator();
-            var result = dynamicProxy.CreateInterfaceProxyWithTargetInterface(
-                interfaceType,
-                concreteType,
-                new DemoInterceptor("DemoInterceptor"));
+        //public static object CreateInterfaceProxyWithTargetInterface(Type interfaceType, object concreteType)
+        //{
+        //    var dynamicProxy = new ProxyGenerator();
+        //    var result = dynamicProxy.CreateInterfaceProxyWithTargetInterface(
+        //        interfaceType,
+        //        concreteType,
+        //        new LoggingInterceptor());
 
-            return result;
-        }
+        //    return result;
+        //}
     }
 }

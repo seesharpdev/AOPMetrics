@@ -11,8 +11,8 @@ namespace AOPMetrics.Interceptors
         {
             //For<ITenantContext>().Use<SimpleTenantContext>();
 
-            For<INewsRepository>().Use<NewsRepository>()
-                .EnrichWith(ex => DynamicProxyHelper.CreateInterfaceProxyWithTargetInterface(typeof(INewsRepository), ex));
+            //For<INewsRepository>().Use<NewsRepository>()
+            //    .EnrichWith(ex => DynamicProxyHelper.CreateInterfaceProxyWithTargetInterface(typeof(INewsRepository), ex));
         }
     }
 }

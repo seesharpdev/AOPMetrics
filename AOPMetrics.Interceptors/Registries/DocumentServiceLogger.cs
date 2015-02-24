@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
 using AOPMetrics.Core.Interfaces.Logging;
-using StructureMap;
-using StructureMap.Interceptors;
 
 namespace AOPMetrics.Interceptors.Registries
 {
@@ -21,7 +19,7 @@ namespace AOPMetrics.Interceptors.Registries
         //    _logger = logger;
         //}
 
-        public void Start()
+        public void Start(string firstArgument, string secondArgument)
         {
             //_logger.Info("DocumentServiceLogger.Start");
             Debug.Write("DocumentServiceLogger.Start");

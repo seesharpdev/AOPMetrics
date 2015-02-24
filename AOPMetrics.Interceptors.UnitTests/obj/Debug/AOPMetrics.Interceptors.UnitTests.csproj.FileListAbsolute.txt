@@ -14,3 +14,13 @@
 \\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Castle.Core.xml
 \\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\obj\Debug\AOPMetrics.Interceptors.UnitTests.dll
 \\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\obj\Debug\AOPMetrics.Interceptors.UnitTests.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.Core.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.Core.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.Core.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\Common.Logging.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\StructureMap.Net4.dll
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\StructureMap.pdb
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\StructureMap.xml
+\\euiedufp001.idev.spencerstuart.com\userdata\CSouto\Documents\Visual Studio 2013\Projects\AOPMetrics\AOPMetrics.Interceptors.UnitTests\bin\Debug\StructureMap.Net4.pdb

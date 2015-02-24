@@ -35,11 +35,21 @@
     <Reference Include="Castle.Core">
       <HintPath>..\packages\Castle.Core.3.3.3\lib\net45\Castle.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Common.Logging">
+      <HintPath>..\packages\Common.Logging.3.0.0\lib\net40\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging.Core">
+      <HintPath>..\packages\Common.Logging.Core.3.0.0\lib\net40\Common.Logging.Core.dll</HintPath>
+    </Reference>
     <Reference Include="log4net">
       <HintPath>..\packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
     </Reference>
-    <Reference Include="StructureMap">
-      <HintPath>..\SharedLibs\StructureMap.dll</HintPath>
+    <Reference Include="StructureMap, Version=3.1.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\structuremap.3.1.4.143\lib\net40\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap.Net4">
+      <HintPath>..\packages\structuremap.3.1.4.143\lib\net40\StructureMap.Net4.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -50,7 +60,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DemoInterceptor.cs" />
+    <Compile Include="AuditInterceptor.cs" />
+    <Compile Include="LoggingInterceptor.cs" />
     <Compile Include="DynamicProxyHelper.cs" />
     <Compile Include="Engine\AutoAttributeScanEngine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
