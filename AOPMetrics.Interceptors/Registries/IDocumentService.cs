@@ -2,6 +2,6 @@
 {
     public interface IDocumentService
     {
-        void Start(string firstArgument, string secondArgument);
+        string Start(string firstArgument, string secondArgument);
     }
 }

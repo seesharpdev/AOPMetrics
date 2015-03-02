@@ -19,10 +19,12 @@ namespace AOPMetrics.Interceptors.Registries
         //    _logger = logger;
         //}
 
-        public void Start(string firstArgument, string secondArgument)
+        public string Start(string firstArgument, string secondArgument)
         {
             //_logger.Info("DocumentServiceLogger.Start");
             Debug.Write("DocumentServiceLogger.Start");
+
+            return _target.Start(firstArgument, secondArgument);
         }
 
         //public object Process(object target, IContext context)

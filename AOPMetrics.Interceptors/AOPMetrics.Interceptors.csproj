@@ -66,8 +66,12 @@
     <Compile Include="Engine\AutoAttributeScanEngine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registries\DocumentService.cs" />
-    <Compile Include="Registries\DocumentServiceLogger.cs" />
-    <Compile Include="Registries\DocumentServiceMetricsAdapter.cs" />
+    <Compile Include="Registries\DocumentServiceLogger.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Registries\DocumentServiceMetricsAdapter.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Registries\IDocumentService.cs" />
     <Compile Include="Registries\IConnectionListener.cs" />
     <Compile Include="Registries\InterceptionRegistry.cs" />

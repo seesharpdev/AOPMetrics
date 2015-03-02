@@ -9,7 +9,7 @@ namespace AOPMetrics.Interceptors.UnitTests
     public class InterceptionRegistryTests
     {
         [Test]
-        [Ignore]
+        //[Ignore]
         public void ShouldEnrichWithDecorator()
         {
             // Arrange
@@ -19,8 +19,7 @@ namespace AOPMetrics.Interceptors.UnitTests
             var instance = container.GetInstance<IDocumentService>();
 
             // Assert
-            Assert.AreEqual(typeof(DocumentServiceMetricsAdapter), instance.GetType());
-            //Assert.IsAssignableFrom<ClassThatNeedsSomeBootstrapping>(instance.GetType());
+            Assert.AreEqual("Castle.Proxies.IDocumentServiceProxy", instance.GetType().ToString());
         }
 
         [Test]
@@ -31,9 +30,10 @@ namespace AOPMetrics.Interceptors.UnitTests
             var instance = container.GetInstance<IDocumentService>();
 
             // Act
-            instance.Start("FirstArgument", "SecondArgument");
+            var response = instance.Start("FirstArgument", "SecondArgument");
 
             // Assert
+            Assert.IsNotNullOrEmpty(response);
         }
     }
 }

@@ -12,19 +12,21 @@ namespace AOPMetrics.Interceptors.Registries
             _documentService = documentService;
         }
 
-        public void Start(string firstArgument, string secondArgument)
+        public string Start(string firstArgument, string secondArgument)
         {
             //Debug.Write("DocumentServiceMetricsAdapter.Start");
-
+            string result = string.Empty;
             try
             {
-                _documentService.Start(firstArgument, secondArgument);
+                result = _documentService.Start(firstArgument, secondArgument);
             }
             catch (Exception)
             {
                 //Console.WriteLine(e);
                 // Increment the exception count
             }
+                
+            return result;
         }
     }
 }
